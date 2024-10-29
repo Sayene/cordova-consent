@@ -1,5 +1,8 @@
 # Change Log
 
+# [3.0.0-alpha.8-2] 
+  * change GoogleUserMessagingPlatform from 2.4.0 to 2.5.0
+
 # [3.0.0-alpha.8-1] 
   * change GoogleUserMessagingPlatform from 2.2.0 to 2.4.0
 
